@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVVM Firebase Auth</string>
+    <string name="text_username">Kullanıcı Adı</string>
+    <string name="text_password">Parola</string>
+    <string name="text_sign_up">Yeni üye misin? Kayıt Ol</string>
+    <string name="button_login">Giriş Yap</string>
+    <string name="invalid_password">Parolanız 5 karakterden fazla olmalıdır</string>
+    <string name="text_name">İsim Soyisim</string>
+    <string name="text_email">E-posta</string>
+    <string name="button_sign_up">Kayıt Ol</string>
+    <string name="invalid_email">Geçerli olmayan e-posta adresi</string>
+    <string name="sign_up_success">Başarıyla kayıt oldunuz</string>
+    <string name="sign_up_error">Kayıt işlemi sırasında hata oluştu</string>
+    <string name="todo">TODO</string>
+    <string name="img_family">Aile</string>
+    <string name="login_success">Başarıyla giriş yaptınız</string>
+    <string name="login_failed">"Giriş işlemi sırasında hata oluştu"</string>
+</resources>
